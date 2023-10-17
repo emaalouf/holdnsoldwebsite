@@ -1,0 +1,8 @@
+[29-Aug-2023 03:43:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Builder\UuidBuilderInterface" not found in /home/holdnsold/public_html/vendor/ramsey/uuid/src/Builder/DegradedUuidBuilder.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/ramsey/uuid/src/Builder/DegradedUuidBuilder.php on line 31
+[29-Aug-2023 08:10:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Builder\UuidBuilderInterface" not found in /home/holdnsold/public_html/vendor/ramsey/uuid/src/Builder/FallbackBuilder.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/ramsey/uuid/src/Builder/FallbackBuilder.php on line 28

@@ -1,0 +1,8 @@
+[25-Aug-2023 01:40:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Question\Question" not found in /home/holdnsold/public_html/vendor/symfony/console/Question/ChoiceQuestion.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Question/ChoiceQuestion.php on line 21
+[03-Oct-2023 21:34:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Question\Question" not found in /home/holdnsold/public_html/vendor/symfony/console/Question/ChoiceQuestion.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Question/ChoiceQuestion.php on line 21

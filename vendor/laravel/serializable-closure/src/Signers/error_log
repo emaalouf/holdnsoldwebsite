@@ -1,0 +1,8 @@
+[29-Aug-2023 01:33:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\SerializableClosure\Contracts\Signer" not found in /home/holdnsold/public_html/vendor/laravel/serializable-closure/src/Signers/Hmac.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/serializable-closure/src/Signers/Hmac.php on line 7
+[04-Oct-2023 00:46:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\SerializableClosure\Contracts\Signer" not found in /home/holdnsold/public_html/vendor/laravel/serializable-closure/src/Signers/Hmac.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/serializable-closure/src/Signers/Hmac.php on line 7

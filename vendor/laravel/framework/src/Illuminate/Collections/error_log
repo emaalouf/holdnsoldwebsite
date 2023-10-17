@@ -1,0 +1,4 @@
+[24-Sep-2023 21:02:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 20

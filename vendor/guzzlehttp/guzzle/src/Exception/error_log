@@ -1,0 +1,56 @@
+[06-Aug-2023 12:23:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Client\ClientExceptionInterface" not found in /home/holdnsold/public_html/vendor/guzzlehttp/guzzle/src/Exception/GuzzleException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/guzzlehttp/guzzle/src/Exception/GuzzleException.php on line 7
+[06-Aug-2023 14:24:02 UTC] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Exception\RequestException" not found in /home/holdnsold/public_html/vendor/guzzlehttp/guzzle/src/Exception/TooManyRedirectsException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/guzzlehttp/guzzle/src/Exception/TooManyRedirectsException.php on line 5
+[06-Aug-2023 14:32:48 UTC] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Exception\RequestException" not found in /home/holdnsold/public_html/vendor/guzzlehttp/guzzle/src/Exception/BadResponseException.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/guzzlehttp/guzzle/src/Exception/BadResponseException.php on line 11
+[06-Aug-2023 16:56:46 UTC] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Exception\TransferException" not found in /home/holdnsold/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 15
+[07-Aug-2023 04:48:59 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Exception\GuzzleException" not found in /home/holdnsold/public_html/vendor/guzzlehttp/guzzle/src/Exception/InvalidArgumentException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/guzzlehttp/guzzle/src/Exception/InvalidArgumentException.php on line 5
+[07-Aug-2023 08:31:37 UTC] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Exception\TransferException" not found in /home/holdnsold/public_html/vendor/guzzlehttp/guzzle/src/Exception/ConnectException.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/guzzlehttp/guzzle/src/Exception/ConnectException.php on line 13
+[29-Aug-2023 00:49:35 UTC] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Exception\BadResponseException" not found in /home/holdnsold/public_html/vendor/guzzlehttp/guzzle/src/Exception/ClientException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/guzzlehttp/guzzle/src/Exception/ClientException.php on line 8
+[29-Aug-2023 10:37:04 UTC] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Exception\BadResponseException" not found in /home/holdnsold/public_html/vendor/guzzlehttp/guzzle/src/Exception/ServerException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/guzzlehttp/guzzle/src/Exception/ServerException.php on line 8
+[29-Aug-2023 12:45:30 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Exception\GuzzleException" not found in /home/holdnsold/public_html/vendor/guzzlehttp/guzzle/src/Exception/TransferException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/guzzlehttp/guzzle/src/Exception/TransferException.php on line 5
+[08-Oct-2023 02:46:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Client\ClientExceptionInterface" not found in /home/holdnsold/public_html/vendor/guzzlehttp/guzzle/src/Exception/GuzzleException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/guzzlehttp/guzzle/src/Exception/GuzzleException.php on line 7
+[08-Oct-2023 03:18:08 UTC] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Exception\RequestException" not found in /home/holdnsold/public_html/vendor/guzzlehttp/guzzle/src/Exception/BadResponseException.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/guzzlehttp/guzzle/src/Exception/BadResponseException.php on line 11
+[08-Oct-2023 07:17:05 UTC] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Exception\RequestException" not found in /home/holdnsold/public_html/vendor/guzzlehttp/guzzle/src/Exception/TooManyRedirectsException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/guzzlehttp/guzzle/src/Exception/TooManyRedirectsException.php on line 5
+[08-Oct-2023 11:45:42 UTC] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Exception\TransferException" not found in /home/holdnsold/public_html/vendor/guzzlehttp/guzzle/src/Exception/ConnectException.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/guzzlehttp/guzzle/src/Exception/ConnectException.php on line 13
+[08-Oct-2023 12:09:50 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Exception\GuzzleException" not found in /home/holdnsold/public_html/vendor/guzzlehttp/guzzle/src/Exception/InvalidArgumentException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/guzzlehttp/guzzle/src/Exception/InvalidArgumentException.php on line 5

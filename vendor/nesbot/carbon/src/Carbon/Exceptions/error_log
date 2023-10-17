@@ -1,0 +1,72 @@
+[24-Sep-2023 09:39:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\InvalidArgumentException" not found in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidPeriodDateException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidPeriodDateException.php on line 16
+[24-Sep-2023 10:00:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\InvalidArgumentException" not found in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidPeriodParameterException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidPeriodParameterException.php on line 16
+[24-Sep-2023 11:13:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\RuntimeException" not found in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/EndLessPeriodException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/EndLessPeriodException.php on line 16
+[24-Sep-2023 15:17:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\BadMethodCallException" not found in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/UnknownSetterException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/UnknownSetterException.php on line 17
+[24-Sep-2023 15:18:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\BadMethodCallException" not found in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/BadFluentConstructorException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/BadFluentConstructorException.php on line 17
+[24-Sep-2023 16:59:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\InvalidArgumentException" not found in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/NotACarbonClassException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/NotACarbonClassException.php on line 18
+[24-Sep-2023 22:02:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\InvalidArgumentException" not found in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/UnknownGetterException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/UnknownGetterException.php on line 17
+[24-Sep-2023 22:19:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\RuntimeException" not found in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/ImmutableException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/ImmutableException.php on line 17
+[25-Sep-2023 00:43:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\InvalidArgumentException" not found in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidFormatException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidFormatException.php on line 16
+[25-Sep-2023 02:02:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\InvalidArgumentException" not found in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/UnitException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/UnitException.php on line 16
+[25-Sep-2023 02:55:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\Exception" not found in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/RuntimeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/RuntimeException.php on line 14
+[15-Oct-2023 21:20:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\BadMethodCallException" not found in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/BadFluentSetterException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/BadFluentSetterException.php on line 17
+[15-Oct-2023 22:24:09 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Exceptions\UnitException" not found in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/UnitNotConfiguredException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/UnitNotConfiguredException.php on line 16
+[15-Oct-2023 22:44:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\InvalidArgumentException" not found in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidCastException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidCastException.php on line 16
+[16-Oct-2023 00:35:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\InvalidArgumentException" not found in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/NotLocaleAwareException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/NotLocaleAwareException.php on line 17
+[16-Oct-2023 01:50:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\InvalidArgumentException" not found in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/OutOfRangeException.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/OutOfRangeException.php on line 20
+[16-Oct-2023 05:28:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\InvalidArgumentException" not found in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidDateException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidDateException.php on line 17
+[16-Oct-2023 06:52:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Carbon\Exceptions\InvalidArgumentException" not found in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidTypeException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Exceptions/InvalidTypeException.php on line 16

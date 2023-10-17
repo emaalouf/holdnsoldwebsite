@@ -1,0 +1,132 @@
+[01-Jun-2023 11:29:20 UTC] PHP Fatal error:  Uncaught Error: Class "Auth" not found in /home/holdnsold/public_html/routes/web.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/routes/web.php on line 22
+[01-Jun-2023 11:29:20 UTC] PHP Fatal error:  Uncaught Error: Class "Artisan" not found in /home/holdnsold/public_html/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/routes/console.php on line 16
+[01-Jun-2023 11:29:20 UTC] PHP Fatal error:  Uncaught Error: Class "Broadcast" not found in /home/holdnsold/public_html/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/routes/channels.php on line 14
+[01-Jun-2023 11:55:03 UTC] PHP Fatal error:  Uncaught Error: Class "Broadcast" not found in /home/holdnsold/public_html/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/routes/channels.php on line 14
+[01-Jun-2023 11:55:03 UTC] PHP Fatal error:  Uncaught Error: Class "Auth" not found in /home/holdnsold/public_html/routes/web.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/routes/web.php on line 22
+[01-Jun-2023 11:55:03 UTC] PHP Fatal error:  Uncaught Error: Class "Artisan" not found in /home/holdnsold/public_html/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/routes/console.php on line 16
+[05-Jun-2023 00:56:51 UTC] PHP Fatal error:  Uncaught Error: Class "Artisan" not found in /home/holdnsold/public_html/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/routes/console.php on line 16
+[05-Jun-2023 00:56:54 UTC] PHP Fatal error:  Uncaught Error: Class "Auth" not found in /home/holdnsold/public_html/routes/web.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/routes/web.php on line 22
+[05-Jun-2023 00:57:01 UTC] PHP Fatal error:  Uncaught Error: Class "Broadcast" not found in /home/holdnsold/public_html/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/routes/channels.php on line 14
+[29-Jun-2023 21:38:30 UTC] PHP Fatal error:  Uncaught Error: Class "Broadcast" not found in /home/holdnsold/public_html/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/routes/channels.php on line 14
+[29-Jun-2023 21:38:30 UTC] PHP Fatal error:  Uncaught Error: Class "Artisan" not found in /home/holdnsold/public_html/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/routes/console.php on line 16
+[29-Jun-2023 21:38:48 UTC] PHP Fatal error:  Uncaught Error: Class "Auth" not found in /home/holdnsold/public_html/routes/web.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/routes/web.php on line 22
+[07-Jul-2023 22:37:59 UTC] PHP Fatal error:  Uncaught Error: Class "Broadcast" not found in /home/holdnsold/public_html/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/routes/channels.php on line 14
+[07-Jul-2023 22:44:59 UTC] PHP Fatal error:  Uncaught Error: Class "Artisan" not found in /home/holdnsold/public_html/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/routes/console.php on line 16
+[08-Jul-2023 00:22:50 UTC] PHP Fatal error:  Uncaught Error: Class "Auth" not found in /home/holdnsold/public_html/routes/web.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/routes/web.php on line 22
+[08-Jul-2023 21:34:24 UTC] PHP Fatal error:  Uncaught Error: Class "Broadcast" not found in /home/holdnsold/public_html/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/routes/channels.php on line 14
+[08-Jul-2023 21:47:08 UTC] PHP Fatal error:  Uncaught Error: Class "Artisan" not found in /home/holdnsold/public_html/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/routes/console.php on line 16
+[08-Jul-2023 22:28:01 UTC] PHP Fatal error:  Uncaught Error: Class "Auth" not found in /home/holdnsold/public_html/routes/web.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/routes/web.php on line 22
+[19-Jul-2023 20:56:26 UTC] PHP Fatal error:  Uncaught Error: Class "Artisan" not found in /home/holdnsold/public_html/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/routes/console.php on line 16
+[19-Jul-2023 21:04:58 UTC] PHP Fatal error:  Uncaught Error: Class "Broadcast" not found in /home/holdnsold/public_html/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/routes/channels.php on line 14
+[19-Jul-2023 21:07:13 UTC] PHP Fatal error:  Uncaught Error: Class "Auth" not found in /home/holdnsold/public_html/routes/web.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/routes/web.php on line 22
+[20-Jul-2023 00:14:27 UTC] PHP Fatal error:  Uncaught Error: Class "Artisan" not found in /home/holdnsold/public_html/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/routes/console.php on line 16
+[20-Jul-2023 00:57:21 UTC] PHP Fatal error:  Uncaught Error: Class "Broadcast" not found in /home/holdnsold/public_html/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/routes/channels.php on line 14
+[20-Jul-2023 02:03:03 UTC] PHP Fatal error:  Uncaught Error: Class "Auth" not found in /home/holdnsold/public_html/routes/web.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/routes/web.php on line 22
+[06-Aug-2023 11:52:59 UTC] PHP Fatal error:  Uncaught Error: Class "Auth" not found in /home/holdnsold/public_html/routes/web.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/routes/web.php on line 22
+[06-Aug-2023 11:53:03 UTC] PHP Fatal error:  Uncaught Error: Class "Broadcast" not found in /home/holdnsold/public_html/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/routes/channels.php on line 14
+[06-Aug-2023 11:53:03 UTC] PHP Fatal error:  Uncaught Error: Class "Artisan" not found in /home/holdnsold/public_html/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/routes/console.php on line 16
+[11-Aug-2023 15:01:19 UTC] PHP Fatal error:  Uncaught Error: Class "Auth" not found in /home/holdnsold/public_html/routes/web.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/routes/web.php on line 22
+[11-Aug-2023 15:01:29 UTC] PHP Fatal error:  Uncaught Error: Class "Artisan" not found in /home/holdnsold/public_html/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/routes/console.php on line 16
+[11-Aug-2023 15:01:29 UTC] PHP Fatal error:  Uncaught Error: Class "Broadcast" not found in /home/holdnsold/public_html/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/routes/channels.php on line 14
+[25-Aug-2023 00:18:00 UTC] PHP Fatal error:  Uncaught Error: Class "Broadcast" not found in /home/holdnsold/public_html/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/routes/channels.php on line 14
+[25-Aug-2023 01:17:20 UTC] PHP Fatal error:  Uncaught Error: Class "Artisan" not found in /home/holdnsold/public_html/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/routes/console.php on line 16
+[03-Oct-2023 18:19:52 UTC] PHP Fatal error:  Uncaught Error: Class "Artisan" not found in /home/holdnsold/public_html/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/routes/console.php on line 16

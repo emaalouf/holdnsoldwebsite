@@ -1,0 +1,28 @@
+[28-Aug-2023 22:01:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Readline\Readline" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Readline/GNUReadline.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Readline/GNUReadline.php on line 21
+[29-Aug-2023 10:33:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Readline\Readline" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Readline/Transient.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Readline/Transient.php on line 19
+[29-Aug-2023 15:56:16 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Readline\GNUReadline" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Readline/Libedit.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Readline/Libedit.php on line 26
+[03-Oct-2023 10:30:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Readline\Readline" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Readline/Transient.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Readline/Transient.php on line 19
+[03-Oct-2023 18:26:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Readline\Readline" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Readline/GNUReadline.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Readline/GNUReadline.php on line 21
+[03-Oct-2023 19:33:08 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Readline\GNUReadline" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Readline/Libedit.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Readline/Libedit.php on line 26
+[11-Oct-2023 21:06:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Readline\Readline" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Readline/Userland.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Readline/Userland.php on line 26

@@ -1,0 +1,12 @@
+[20-Aug-2023 13:55:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/holdnsold/public_html/vendor/symfony/console/Application.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Application.php on line 73
+[21-Aug-2023 08:13:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/holdnsold/public_html/vendor/symfony/console/SingleCommandApplication.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/SingleCommandApplication.php on line 21
+[25-Sep-2023 00:07:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/holdnsold/public_html/vendor/symfony/console/Application.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Application.php on line 73

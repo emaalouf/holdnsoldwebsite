@@ -1,0 +1,8 @@
+[24-Sep-2023 00:28:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualBindingBuilder" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Container/ContextualBindingBuilder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Container/ContextualBindingBuilder.php on line 8
+[24-Sep-2023 11:03:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\Container" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 17

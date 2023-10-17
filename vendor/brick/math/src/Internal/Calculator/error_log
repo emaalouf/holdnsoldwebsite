@@ -1,0 +1,12 @@
+[24-Sep-2023 00:35:18 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/holdnsold/public_html/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php on line 16
+[24-Sep-2023 01:43:52 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/holdnsold/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/brick/math/src/Internal/Calculator/BcMathCalculator.php on line 16
+[24-Sep-2023 23:42:57 UTC] PHP Fatal error:  Uncaught Error: Class "Brick\Math\Internal\Calculator" not found in /home/holdnsold/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/brick/math/src/Internal/Calculator/NativeCalculator.php on line 16

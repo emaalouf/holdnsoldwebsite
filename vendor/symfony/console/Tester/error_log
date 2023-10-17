@@ -1,0 +1,4 @@
+[25-Aug-2023 04:57:36 UTC] PHP Fatal error:  Trait "Symfony\Component\Console\Tester\TesterTrait" not found in /home/holdnsold/public_html/vendor/symfony/console/Tester/ApplicationTester.php on line 27
+[25-Aug-2023 09:46:26 UTC] PHP Fatal error:  Trait "Symfony\Component\Console\Tester\TesterTrait" not found in /home/holdnsold/public_html/vendor/symfony/console/Tester/CommandTester.php on line 23
+[03-Oct-2023 17:49:36 UTC] PHP Fatal error:  Trait "Symfony\Component\Console\Tester\TesterTrait" not found in /home/holdnsold/public_html/vendor/symfony/console/Tester/CommandTester.php on line 23
+[03-Oct-2023 18:31:17 UTC] PHP Fatal error:  Trait "Symfony\Component\Console\Tester\TesterTrait" not found in /home/holdnsold/public_html/vendor/symfony/console/Tester/ApplicationTester.php on line 27

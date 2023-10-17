@@ -1,0 +1,48 @@
+[19-Jul-2023 22:24:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/holdnsold/public_html/resources/views/create_ad.blade.php:429
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/resources/views/create_ad.blade.php on line 429
+[19-Jul-2023 23:48:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/holdnsold/public_html/resources/views/contact_us.blade.php:98
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/resources/views/contact_us.blade.php on line 98
+[20-Jul-2023 00:19:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function safe_output() in /home/holdnsold/public_html/resources/views/single_ad.blade.php:101
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/resources/views/single_ad.blade.php on line 101
+[20-Jul-2023 00:20:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/holdnsold/public_html/resources/views/single_page.blade.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/resources/views/single_page.blade.php on line 31
+[20-Jul-2023 06:28:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/holdnsold/public_html/resources/views/single_page.blade.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/resources/views/single_page.blade.php on line 31
+[22-Aug-2023 23:04:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/holdnsold/public_html/resources/views/contact_us.blade.php:98
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/resources/views/contact_us.blade.php on line 98
+[22-Aug-2023 23:16:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/holdnsold/public_html/resources/views/create_ad.blade.php:429
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/resources/views/create_ad.blade.php on line 429
+[23-Aug-2023 02:05:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function safe_output() in /home/holdnsold/public_html/resources/views/single_ad.blade.php:101
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/resources/views/single_ad.blade.php on line 101
+[23-Aug-2023 02:11:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/holdnsold/public_html/resources/views/single_page.blade.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/resources/views/single_page.blade.php on line 31
+[17-Sep-2023 20:41:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function safe_output() in /home/holdnsold/public_html/resources/views/single_ad.blade.php:101
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/resources/views/single_ad.blade.php on line 101
+[20-Sep-2023 11:18:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/holdnsold/public_html/resources/views/contact_us.blade.php:98
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/resources/views/contact_us.blade.php on line 98
+[20-Sep-2023 11:18:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/holdnsold/public_html/resources/views/create_ad.blade.php:429
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/resources/views/create_ad.blade.php on line 429

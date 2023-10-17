@@ -1,0 +1,44 @@
+[24-Aug-2023 10:17:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\Output" not found in /home/holdnsold/public_html/vendor/symfony/console/Output/BufferedOutput.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Output/BufferedOutput.php on line 17
+[24-Aug-2023 13:08:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\Output" not found in /home/holdnsold/public_html/vendor/symfony/console/Output/TrimmedBufferOutput.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Output/TrimmedBufferOutput.php on line 22
+[24-Aug-2023 14:04:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Output\OutputInterface" not found in /home/holdnsold/public_html/vendor/symfony/console/Output/ConsoleOutputInterface.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Output/ConsoleOutputInterface.php on line 20
+[24-Aug-2023 16:57:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\StreamOutput" not found in /home/holdnsold/public_html/vendor/symfony/console/Output/ConsoleOutput.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Output/ConsoleOutput.php on line 30
+[24-Aug-2023 23:25:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\Output" not found in /home/holdnsold/public_html/vendor/symfony/console/Output/StreamOutput.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Output/StreamOutput.php on line 30
+[25-Aug-2023 03:59:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Output\OutputInterface" not found in /home/holdnsold/public_html/vendor/symfony/console/Output/NullOutput.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Output/NullOutput.php on line 25
+[25-Aug-2023 06:35:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\StreamOutput" not found in /home/holdnsold/public_html/vendor/symfony/console/Output/ConsoleSectionOutput.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Output/ConsoleSectionOutput.php on line 22
+[03-Oct-2023 01:12:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Output\OutputInterface" not found in /home/holdnsold/public_html/vendor/symfony/console/Output/Output.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Output/Output.php on line 30
+[03-Oct-2023 18:14:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Output\OutputInterface" not found in /home/holdnsold/public_html/vendor/symfony/console/Output/ConsoleOutputInterface.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Output/ConsoleOutputInterface.php on line 20
+[04-Oct-2023 01:40:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\Output" not found in /home/holdnsold/public_html/vendor/symfony/console/Output/TrimmedBufferOutput.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Output/TrimmedBufferOutput.php on line 22
+[04-Oct-2023 02:35:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\Output" not found in /home/holdnsold/public_html/vendor/symfony/console/Output/BufferedOutput.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Output/BufferedOutput.php on line 17

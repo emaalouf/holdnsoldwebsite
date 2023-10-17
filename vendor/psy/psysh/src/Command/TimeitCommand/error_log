@@ -1,0 +1,4 @@
+[24-Sep-2023 22:02:31 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/TimeitCommand/TimeitVisitor.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/TimeitCommand/TimeitVisitor.php on line 32

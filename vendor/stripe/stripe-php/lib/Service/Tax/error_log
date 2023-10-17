@@ -1,0 +1,8 @@
+[24-Sep-2023 22:56:02 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\Service\AbstractService" not found in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Service/Tax/TransactionService.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Service/Tax/TransactionService.php on line 7
+[15-Oct-2023 15:51:04 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\Service\AbstractServiceFactory" not found in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Service/Tax/TaxServiceFactory.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Service/Tax/TaxServiceFactory.php on line 13

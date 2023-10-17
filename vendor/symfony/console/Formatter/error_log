@@ -1,0 +1,44 @@
+[24-Aug-2023 11:07:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Formatter\OutputFormatterStyleInterface" not found in /home/holdnsold/public_html/vendor/symfony/console/Formatter/NullOutputFormatterStyle.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Formatter/NullOutputFormatterStyle.php on line 17
+[24-Aug-2023 16:36:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Formatter\WrappableOutputFormatterInterface" not found in /home/holdnsold/public_html/vendor/symfony/console/Formatter/OutputFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Formatter/OutputFormatter.php on line 22
+[25-Aug-2023 00:33:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Formatter\OutputFormatterInterface" not found in /home/holdnsold/public_html/vendor/symfony/console/Formatter/WrappableOutputFormatterInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Formatter/WrappableOutputFormatterInterface.php on line 19
+[25-Aug-2023 03:49:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Formatter\OutputFormatterStyleInterface" not found in /home/holdnsold/public_html/vendor/symfony/console/Formatter/OutputFormatterStyle.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Formatter/OutputFormatterStyle.php on line 21
+[25-Aug-2023 05:54:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Formatter\OutputFormatterInterface" not found in /home/holdnsold/public_html/vendor/symfony/console/Formatter/NullOutputFormatter.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Formatter/NullOutputFormatter.php on line 17
+[03-Oct-2023 03:54:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Formatter\WrappableOutputFormatterInterface" not found in /home/holdnsold/public_html/vendor/symfony/console/Formatter/OutputFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Formatter/OutputFormatter.php on line 22
+[03-Oct-2023 14:21:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Formatter\OutputFormatterInterface" not found in /home/holdnsold/public_html/vendor/symfony/console/Formatter/WrappableOutputFormatterInterface.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Formatter/WrappableOutputFormatterInterface.php on line 19
+[03-Oct-2023 16:13:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Formatter\OutputFormatterInterface" not found in /home/holdnsold/public_html/vendor/symfony/console/Formatter/NullOutputFormatter.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Formatter/NullOutputFormatter.php on line 17
+[03-Oct-2023 16:45:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Formatter\OutputFormatterStyleInterface" not found in /home/holdnsold/public_html/vendor/symfony/console/Formatter/NullOutputFormatterStyle.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Formatter/NullOutputFormatterStyle.php on line 17
+[03-Oct-2023 18:16:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Formatter\OutputFormatterStyleInterface" not found in /home/holdnsold/public_html/vendor/symfony/console/Formatter/OutputFormatterStyle.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Formatter/OutputFormatterStyle.php on line 21
+[07-Oct-2023 14:12:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/holdnsold/public_html/vendor/symfony/console/Formatter/OutputFormatterStyleStack.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Formatter/OutputFormatterStyleStack.php on line 20

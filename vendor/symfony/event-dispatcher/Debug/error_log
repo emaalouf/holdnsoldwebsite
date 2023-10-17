@@ -1,0 +1,8 @@
+[24-Aug-2023 23:34:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/holdnsold/public_html/vendor/symfony/event-dispatcher/Debug/TraceableEventDispatcher.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/event-dispatcher/Debug/TraceableEventDispatcher.php on line 31
+[03-Oct-2023 11:57:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\EventDispatcher\EventDispatcherInterface" not found in /home/holdnsold/public_html/vendor/symfony/event-dispatcher/Debug/TraceableEventDispatcher.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/event-dispatcher/Debug/TraceableEventDispatcher.php on line 31

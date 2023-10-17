@@ -1,0 +1,5 @@
+[20-Jul-2023 03:19:23 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/holdnsold/public_html/vendor/bin/jp.php on line 13
+[20-Jul-2023 07:09:04 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/holdnsold/public_html/vendor/bin/jp.php on line 13
+[16-Aug-2023 18:25:45 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/holdnsold/public_html/vendor/bin/jp.php on line 13
+[03-Sep-2023 19:03:27 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/holdnsold/public_html/vendor/bin/jp.php on line 13
+[24-Sep-2023 20:43:27 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/holdnsold/public_html/vendor/bin/jp.php on line 13

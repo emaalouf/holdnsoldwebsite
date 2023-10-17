@@ -1,0 +1,4 @@
+[16-Oct-2023 05:18:07 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\Service\AbstractServiceFactory" not found in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Service/Identity/IdentityServiceFactory.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Service/Identity/IdentityServiceFactory.php on line 13

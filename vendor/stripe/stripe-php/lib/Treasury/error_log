@@ -1,0 +1,60 @@
+[06-Aug-2023 00:53:36 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\ApiResource" not found in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Treasury/OutboundTransfer.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Treasury/OutboundTransfer.php on line 39
+[06-Aug-2023 13:54:02 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\ApiResource" not found in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Treasury/InboundTransfer.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Treasury/InboundTransfer.php on line 36
+[07-Aug-2023 12:17:34 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\ApiResource" not found in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Treasury/DebitReversal.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Treasury/DebitReversal.php on line 29
+[07-Aug-2023 18:56:41 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\ApiResource" not found in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Treasury/TransactionEntry.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Treasury/TransactionEntry.php on line 25
+[07-Aug-2023 20:58:56 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\ApiResource" not found in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Treasury/OutboundPayment.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Treasury/OutboundPayment.php on line 39
+[07-Aug-2023 21:07:16 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\ApiResource" not found in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Treasury/FinancialAccount.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Treasury/FinancialAccount.php on line 29
+[08-Aug-2023 02:35:22 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\ApiResource" not found in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Treasury/ReceivedCredit.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Treasury/ReceivedCredit.php on line 30
+[08-Aug-2023 03:04:26 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\ApiResource" not found in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Treasury/CreditReversal.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Treasury/CreditReversal.php on line 28
+[09-Aug-2023 20:12:44 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\ApiResource" not found in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Treasury/FinancialAccountFeatures.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Treasury/FinancialAccountFeatures.php on line 21
+[29-Aug-2023 09:29:40 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\ApiResource" not found in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Treasury/Transaction.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Treasury/Transaction.php on line 28
+[29-Aug-2023 12:05:12 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\ApiResource" not found in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Treasury/ReceivedDebit.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Treasury/ReceivedDebit.php on line 29
+[07-Oct-2023 15:45:13 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\ApiResource" not found in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Treasury/FinancialAccount.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Treasury/FinancialAccount.php on line 29
+[07-Oct-2023 21:23:52 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\ApiResource" not found in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Treasury/ReceivedCredit.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Treasury/ReceivedCredit.php on line 30
+[08-Oct-2023 07:01:00 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\ApiResource" not found in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Treasury/InboundTransfer.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Treasury/InboundTransfer.php on line 36
+[08-Oct-2023 10:08:13 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\ApiResource" not found in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Treasury/FinancialAccountFeatures.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Treasury/FinancialAccountFeatures.php on line 21

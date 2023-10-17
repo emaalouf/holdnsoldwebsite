@@ -1,0 +1,24 @@
+[12-Jul-2023 04:55:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/holdnsold/public_html/app/Console/Commands/AdUpdateDate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Console/Commands/AdUpdateDate.php on line 9
+[12-Jul-2023 05:08:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/holdnsold/public_html/app/Console/Commands/AppOptimizeClear.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Console/Commands/AppOptimizeClear.php on line 9
+[12-Jul-2023 05:30:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/holdnsold/public_html/app/Console/Commands/ImportDB.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Console/Commands/ImportDB.php on line 7
+[16-Jul-2023 08:36:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/holdnsold/public_html/app/Console/Commands/AdUpdateDate.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Console/Commands/AdUpdateDate.php on line 9
+[16-Jul-2023 08:49:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/holdnsold/public_html/app/Console/Commands/AppOptimizeClear.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Console/Commands/AppOptimizeClear.php on line 9
+[16-Jul-2023 09:02:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/holdnsold/public_html/app/Console/Commands/ImportDB.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Console/Commands/ImportDB.php on line 7

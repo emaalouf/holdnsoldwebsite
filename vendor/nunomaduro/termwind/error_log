@@ -1,0 +1,10 @@
+[28-Jul-2023 21:27:20 UTC] PHP Warning:  require_once(/home/holdnsold/public_html/vendor/nunomaduro/termwind/vendor/autoload.php): Failed to open stream: No such file or directory in /home/holdnsold/public_html/vendor/nunomaduro/termwind/playground.php on line 3
+[28-Jul-2023 21:27:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/holdnsold/public_html/vendor/nunomaduro/termwind/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/holdnsold/public_html/vendor/nunomaduro/termwind/playground.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nunomaduro/termwind/playground.php on line 3
+[29-Aug-2023 16:26:05 UTC] PHP Warning:  require_once(/home/holdnsold/public_html/vendor/nunomaduro/termwind/vendor/autoload.php): Failed to open stream: No such file or directory in /home/holdnsold/public_html/vendor/nunomaduro/termwind/playground.php on line 3
+[29-Aug-2023 16:26:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/holdnsold/public_html/vendor/nunomaduro/termwind/vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/holdnsold/public_html/vendor/nunomaduro/termwind/playground.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nunomaduro/termwind/playground.php on line 3

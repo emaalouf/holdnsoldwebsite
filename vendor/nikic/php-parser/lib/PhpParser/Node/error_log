@@ -1,0 +1,96 @@
+[08-Aug-2023 00:51:07 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Identifier" not found in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php on line 12
+[11-Aug-2023 06:08:25 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php on line 8
+[11-Aug-2023 07:31:53 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php on line 7
+[11-Aug-2023 08:20:58 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php on line 7
+[11-Aug-2023 08:55:52 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Node" not found in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php on line 7
+[12-Aug-2023 01:54:07 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php on line 7
+[12-Aug-2023 03:47:15 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php on line 10
+[12-Aug-2023 07:55:05 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php on line 7
+[12-Aug-2023 13:14:28 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[12-Aug-2023 22:38:27 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php on line 5
+[12-Aug-2023 22:38:54 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php on line 7
+[13-Aug-2023 02:06:31 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php on line 8
+[28-Sep-2023 17:15:27 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php on line 12
+[29-Sep-2023 11:14:07 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[07-Oct-2023 13:01:11 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php on line 7
+[07-Oct-2023 14:16:51 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php on line 7
+[07-Oct-2023 14:53:17 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php on line 8
+[07-Oct-2023 18:48:40 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php on line 7
+[07-Oct-2023 22:05:59 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php on line 7
+[08-Oct-2023 05:01:58 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php on line 5
+[08-Oct-2023 07:33:04 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Node" not found in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php on line 7
+[08-Oct-2023 09:07:28 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php on line 7
+[15-Oct-2023 16:57:21 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[16-Oct-2023 04:34:51 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php on line 8

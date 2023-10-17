@@ -1,0 +1,44 @@
+[01-Jun-2023 11:29:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/holdnsold/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/bootstrap/app.php on line 14
+[01-Jun-2023 11:55:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/holdnsold/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/bootstrap/app.php on line 14
+[04-Jul-2023 08:43:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/holdnsold/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/bootstrap/app.php on line 14
+[05-Jul-2023 07:39:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/holdnsold/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/bootstrap/app.php on line 14
+[19-Jul-2023 21:39:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/holdnsold/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/bootstrap/app.php on line 14
+[20-Jul-2023 03:09:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/holdnsold/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/bootstrap/app.php on line 14
+[30-Jul-2023 17:17:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/holdnsold/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/bootstrap/app.php on line 14
+[06-Aug-2023 11:52:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/holdnsold/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/bootstrap/app.php on line 14
+[11-Aug-2023 15:01:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/holdnsold/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/bootstrap/app.php on line 14
+[24-Aug-2023 21:10:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/holdnsold/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/bootstrap/app.php on line 14
+[03-Oct-2023 06:58:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/holdnsold/public_html/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/bootstrap/app.php on line 14

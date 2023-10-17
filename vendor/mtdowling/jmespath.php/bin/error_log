@@ -1,0 +1,18 @@
+[24-Aug-2023 23:14:26 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\XdebugHandler\XdebugHandler" not found in /home/holdnsold/public_html/vendor/mtdowling/jmespath.php/bin/perf.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/mtdowling/jmespath.php/bin/perf.php on line 12
+[25-Aug-2023 10:50:01 UTC] PHP Warning:  Undefined variable $argv in /home/holdnsold/public_html/vendor/mtdowling/jmespath.php/bin/jp.php on line 30
+[25-Aug-2023 10:50:01 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/holdnsold/public_html/vendor/mtdowling/jmespath.php/bin/jp.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/mtdowling/jmespath.php/bin/jp.php on line 30
+[03-Oct-2023 05:27:58 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\XdebugHandler\XdebugHandler" not found in /home/holdnsold/public_html/vendor/mtdowling/jmespath.php/bin/perf.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/mtdowling/jmespath.php/bin/perf.php on line 12
+[03-Oct-2023 11:47:33 UTC] PHP Warning:  Undefined variable $argv in /home/holdnsold/public_html/vendor/mtdowling/jmespath.php/bin/jp.php on line 30
+[03-Oct-2023 11:47:33 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/holdnsold/public_html/vendor/mtdowling/jmespath.php/bin/jp.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/mtdowling/jmespath.php/bin/jp.php on line 30

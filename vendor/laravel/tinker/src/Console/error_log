@@ -1,0 +1,8 @@
+[29-Aug-2023 05:40:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/holdnsold/public_html/vendor/laravel/tinker/src/Console/TinkerCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/tinker/src/Console/TinkerCommand.php on line 14
+[04-Oct-2023 01:54:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/holdnsold/public_html/vendor/laravel/tinker/src/Console/TinkerCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/tinker/src/Console/TinkerCommand.php on line 14

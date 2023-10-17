@@ -1,0 +1,20 @@
+[06-Aug-2023 13:42:09 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\ApiResource" not found in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Terminal/Location.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Terminal/Location.php on line 21
+[07-Aug-2023 19:29:17 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\ApiResource" not found in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Terminal/Configuration.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Terminal/Configuration.php on line 19
+[08-Aug-2023 03:11:19 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\ApiResource" not found in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Terminal/ConnectionToken.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Terminal/ConnectionToken.php on line 17
+[07-Oct-2023 14:53:12 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\ApiResource" not found in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Terminal/Configuration.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Terminal/Configuration.php on line 19
+[07-Oct-2023 15:54:31 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\ApiResource" not found in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Terminal/Reader.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Terminal/Reader.php on line 27

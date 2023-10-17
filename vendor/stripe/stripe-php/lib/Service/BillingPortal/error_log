@@ -1,0 +1,8 @@
+[02-Sep-2023 09:47:15 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\Service\AbstractService" not found in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Service/BillingPortal/SessionService.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Service/BillingPortal/SessionService.php on line 7
+[24-Sep-2023 00:04:24 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\Service\AbstractService" not found in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Service/BillingPortal/ConfigurationService.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Service/BillingPortal/ConfigurationService.php on line 7

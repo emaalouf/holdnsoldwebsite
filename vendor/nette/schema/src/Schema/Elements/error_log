@@ -1,0 +1,2 @@
+[15-Oct-2023 17:02:03 UTC] PHP Fatal error:  Trait "Nette\Schema\Elements\Base" not found in /home/holdnsold/public_html/vendor/nette/schema/src/Schema/Elements/Structure.php on line 18
+[16-Oct-2023 00:06:16 UTC] PHP Fatal error:  Trait "Nette\Schema\Elements\Base" not found in /home/holdnsold/public_html/vendor/nette/schema/src/Schema/Elements/Type.php on line 19

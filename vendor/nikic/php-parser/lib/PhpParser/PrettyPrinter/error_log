@@ -1,0 +1,4 @@
+[12-Aug-2023 15:55:09 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\PrettyPrinterAbstract" not found in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinter/Standard.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinter/Standard.php on line 16

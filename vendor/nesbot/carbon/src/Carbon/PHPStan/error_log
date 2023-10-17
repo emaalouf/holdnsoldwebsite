@@ -1,0 +1,21 @@
+[11-Aug-2023 05:42:27 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPStan\Reflection\MethodsClassReflectionExtension" not found in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/PHPStan/MacroExtension.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/PHPStan/MacroExtension.php on line 27
+[12-Aug-2023 16:52:37 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPStan\Reflection\Php\BuiltinMethodReflection" not found in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/PHPStan/AbstractMacro.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/PHPStan/AbstractMacro.php on line 33
+[13-Aug-2023 03:35:03 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "PHPStan\Reflection\Php\BuiltinMethodReflection" does not exist in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/PHPStan/Macro.php:20
+Stack trace:
+#0 /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/PHPStan/Macro.php(20): ReflectionMethod->__construct()
+#1 {main}
+  thrown in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/PHPStan/Macro.php on line 20
+[07-Oct-2023 22:12:45 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPStan\Reflection\Php\BuiltinMethodReflection" not found in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/PHPStan/AbstractMacro.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/PHPStan/AbstractMacro.php on line 33
+[08-Oct-2023 00:44:42 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPStan\Reflection\MethodsClassReflectionExtension" not found in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/PHPStan/MacroExtension.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/PHPStan/MacroExtension.php on line 27

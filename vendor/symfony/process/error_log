@@ -1,0 +1,8 @@
+[21-Aug-2023 01:13:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Process" not found in /home/holdnsold/public_html/vendor/symfony/process/PhpProcess.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/process/PhpProcess.php on line 26
+[24-Sep-2023 04:48:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Process" not found in /home/holdnsold/public_html/vendor/symfony/process/PhpProcess.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/process/PhpProcess.php on line 26

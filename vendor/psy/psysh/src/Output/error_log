@@ -1,0 +1,20 @@
+[29-Aug-2023 06:42:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\ConsoleOutput" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Output/ShellOutput.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Output/ShellOutput.php on line 21
+[29-Aug-2023 10:57:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\StreamOutput" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[03-Oct-2023 09:01:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\StreamOutput" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Output/PassthruPager.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Output/PassthruPager.php on line 20
+[03-Oct-2023 12:12:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\StreamOutput" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Output/ProcOutputPager.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Output/ProcOutputPager.php on line 24
+[04-Oct-2023 02:31:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\ConsoleOutput" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Output/ShellOutput.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Output/ShellOutput.php on line 21

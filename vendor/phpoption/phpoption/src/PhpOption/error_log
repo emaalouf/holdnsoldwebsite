@@ -1,0 +1,16 @@
+[29-Aug-2023 09:15:33 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOption\Option" not found in /home/holdnsold/public_html/vendor/phpoption/phpoption/src/PhpOption/Some.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/phpoption/phpoption/src/PhpOption/Some.php on line 28
+[29-Aug-2023 12:38:26 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOption\Option" not found in /home/holdnsold/public_html/vendor/phpoption/phpoption/src/PhpOption/LazyOption.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/phpoption/phpoption/src/PhpOption/LazyOption.php on line 28
+[03-Oct-2023 07:25:08 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOption\Option" not found in /home/holdnsold/public_html/vendor/phpoption/phpoption/src/PhpOption/Some.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/phpoption/phpoption/src/PhpOption/Some.php on line 28
+[03-Oct-2023 11:01:18 UTC] PHP Fatal error:  Uncaught Error: Class "PhpOption\Option" not found in /home/holdnsold/public_html/vendor/phpoption/phpoption/src/PhpOption/LazyOption.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/phpoption/phpoption/src/PhpOption/LazyOption.php on line 28

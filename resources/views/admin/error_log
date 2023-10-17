@@ -1,0 +1,72 @@
+[20-Jul-2023 05:51:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function route() in /home/holdnsold/public_html/resources/views/admin/pages.blade.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/resources/views/admin/pages.blade.php on line 44
+[20-Jul-2023 07:09:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function route() in /home/holdnsold/public_html/resources/views/admin/pages.blade.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/resources/views/admin/pages.blade.php on line 44
+[20-Jul-2023 07:15:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function route() in /home/holdnsold/public_html/resources/views/admin/cities.blade.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/resources/views/admin/cities.blade.php on line 89
+[20-Jul-2023 07:16:52 UTC] PHP Warning:  Undefined variable $comment in /home/holdnsold/public_html/resources/views/admin/comments.blade.php on line 41
+[20-Jul-2023 07:16:52 UTC] PHP Warning:  Attempt to read property "author_name" on null in /home/holdnsold/public_html/resources/views/admin/comments.blade.php on line 41
+[20-Jul-2023 07:16:52 UTC] PHP Warning:  Undefined variable $comment in /home/holdnsold/public_html/resources/views/admin/comments.blade.php on line 42
+[20-Jul-2023 07:16:52 UTC] PHP Warning:  Attempt to read property "author_email" on null in /home/holdnsold/public_html/resources/views/admin/comments.blade.php on line 42
+[20-Jul-2023 07:16:52 UTC] PHP Warning:  Undefined variable $comment in /home/holdnsold/public_html/resources/views/admin/comments.blade.php on line 43
+[20-Jul-2023 07:16:52 UTC] PHP Warning:  Attempt to read property "author_ip" on null in /home/holdnsold/public_html/resources/views/admin/comments.blade.php on line 43
+[20-Jul-2023 07:16:52 UTC] PHP Warning:  Undefined variable $comment in /home/holdnsold/public_html/resources/views/admin/comments.blade.php on line 46
+[20-Jul-2023 07:16:52 UTC] PHP Warning:  Attempt to read property "approved" on null in /home/holdnsold/public_html/resources/views/admin/comments.blade.php on line 46
+[20-Jul-2023 07:16:52 UTC] PHP Warning:  Undefined variable $comment in /home/holdnsold/public_html/resources/views/admin/comments.blade.php on line 52
+[20-Jul-2023 07:16:52 UTC] PHP Warning:  Attempt to read property "comment_id" on null in /home/holdnsold/public_html/resources/views/admin/comments.blade.php on line 52
+[20-Jul-2023 07:16:52 UTC] PHP Warning:  Undefined variable $comment in /home/holdnsold/public_html/resources/views/admin/comments.blade.php on line 70
+[20-Jul-2023 07:16:52 UTC] PHP Warning:  Attempt to read property "campaign" on null in /home/holdnsold/public_html/resources/views/admin/comments.blade.php on line 70
+[20-Jul-2023 07:16:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function safe_output() in /home/holdnsold/public_html/resources/views/admin/comments.blade.php:81
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/resources/views/admin/comments.blade.php on line 81
+[20-Jul-2023 07:19:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/holdnsold/public_html/resources/views/admin/edit_ad.blade.php:271
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/resources/views/admin/edit_ad.blade.php on line 271
+[20-Jul-2023 07:22:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/holdnsold/public_html/resources/views/admin/edit_post.blade.php:122
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/resources/views/admin/edit_post.blade.php on line 122
+[20-Jul-2023 07:22:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/holdnsold/public_html/resources/views/admin/brands.blade.php:113
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/resources/views/admin/brands.blade.php on line 113
+[20-Jul-2023 07:24:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home/holdnsold/public_html/resources/views/admin/general_settings.blade.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/resources/views/admin/general_settings.blade.php on line 114
+[20-Jul-2023 07:28:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function trans() in /home/holdnsold/public_html/resources/views/admin/post_create.blade.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/resources/views/admin/post_create.blade.php on line 117
+[20-Jul-2023 07:38:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function route() in /home/holdnsold/public_html/resources/views/admin/states.blade.php:90
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/resources/views/admin/states.blade.php on line 90
+[20-Jul-2023 08:05:10 UTC] PHP Warning:  Undefined variable $comment in /home/holdnsold/public_html/resources/views/admin/comments.blade.php on line 41
+[20-Jul-2023 08:05:10 UTC] PHP Warning:  Attempt to read property "author_name" on null in /home/holdnsold/public_html/resources/views/admin/comments.blade.php on line 41
+[20-Jul-2023 08:05:10 UTC] PHP Warning:  Undefined variable $comment in /home/holdnsold/public_html/resources/views/admin/comments.blade.php on line 42
+[20-Jul-2023 08:05:10 UTC] PHP Warning:  Attempt to read property "author_email" on null in /home/holdnsold/public_html/resources/views/admin/comments.blade.php on line 42
+[20-Jul-2023 08:05:10 UTC] PHP Warning:  Undefined variable $comment in /home/holdnsold/public_html/resources/views/admin/comments.blade.php on line 43
+[20-Jul-2023 08:05:10 UTC] PHP Warning:  Attempt to read property "author_ip" on null in /home/holdnsold/public_html/resources/views/admin/comments.blade.php on line 43
+[20-Jul-2023 08:05:10 UTC] PHP Warning:  Undefined variable $comment in /home/holdnsold/public_html/resources/views/admin/comments.blade.php on line 46
+[20-Jul-2023 08:05:10 UTC] PHP Warning:  Attempt to read property "approved" on null in /home/holdnsold/public_html/resources/views/admin/comments.blade.php on line 46
+[20-Jul-2023 08:05:10 UTC] PHP Warning:  Undefined variable $comment in /home/holdnsold/public_html/resources/views/admin/comments.blade.php on line 52
+[20-Jul-2023 08:05:10 UTC] PHP Warning:  Attempt to read property "comment_id" on null in /home/holdnsold/public_html/resources/views/admin/comments.blade.php on line 52
+[20-Jul-2023 08:05:10 UTC] PHP Warning:  Undefined variable $comment in /home/holdnsold/public_html/resources/views/admin/comments.blade.php on line 70
+[20-Jul-2023 08:05:10 UTC] PHP Warning:  Attempt to read property "campaign" on null in /home/holdnsold/public_html/resources/views/admin/comments.blade.php on line 70
+[20-Jul-2023 08:05:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function safe_output() in /home/holdnsold/public_html/resources/views/admin/comments.blade.php:81
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/resources/views/admin/comments.blade.php on line 81
+[20-Jul-2023 08:37:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function route() in /home/holdnsold/public_html/resources/views/admin/states.blade.php:90
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/resources/views/admin/states.blade.php on line 90

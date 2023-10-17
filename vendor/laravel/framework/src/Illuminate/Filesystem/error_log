@@ -1,0 +1,13 @@
+[24-Sep-2023 22:09:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemServiceProvider.php on line 7
+[15-Oct-2023 14:05:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Filesystem\Factory" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php on line 28
+[16-Oct-2023 02:02:55 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 17
+[16-Oct-2023 05:31:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Filesystem\FilesystemAdapter" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/AwsS3V3Adapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/AwsS3V3Adapter.php on line 10

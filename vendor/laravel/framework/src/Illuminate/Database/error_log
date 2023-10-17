@@ -1,0 +1,22 @@
+[02-Sep-2023 02:18:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Database/DatabaseServiceProvider.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Database/DatabaseServiceProvider.php on line 13
+[02-Sep-2023 02:57:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Connection" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Database/SqlServerConnection.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Database/SqlServerConnection.php on line 15
+[24-Sep-2023 10:43:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Database/MigrationServiceProvider.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Database/MigrationServiceProvider.php on line 20
+[15-Oct-2023 16:30:39 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Database/Grammar.php on line 9
+[15-Oct-2023 17:12:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Connection" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Database/SQLiteConnection.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Database/SQLiteConnection.php on line 13
+[16-Oct-2023 03:52:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Database\ConnectionResolverInterface" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Database/ConnectionResolver.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Database/ConnectionResolver.php on line 5
+[16-Oct-2023 07:03:21 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Database/DatabaseManager.php on line 19

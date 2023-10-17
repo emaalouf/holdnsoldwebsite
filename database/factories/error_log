@@ -1,0 +1,20 @@
+[04-Jul-2023 16:08:16 UTC] PHP Warning:  Undefined variable $factory in /home/holdnsold/public_html/database/factories/ModelFactory.php on line 15
+[04-Jul-2023 16:08:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/holdnsold/public_html/database/factories/ModelFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/database/factories/ModelFactory.php on line 15
+[06-Jul-2023 04:39:11 UTC] PHP Warning:  Undefined variable $factory in /home/holdnsold/public_html/database/factories/ModelFactory.php on line 15
+[06-Jul-2023 04:39:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/holdnsold/public_html/database/factories/ModelFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/database/factories/ModelFactory.php on line 15
+[19-Jul-2023 23:11:57 UTC] PHP Warning:  Undefined variable $factory in /home/holdnsold/public_html/database/factories/ModelFactory.php on line 15
+[19-Jul-2023 23:11:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/holdnsold/public_html/database/factories/ModelFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/database/factories/ModelFactory.php on line 15
+[20-Jul-2023 05:23:16 UTC] PHP Warning:  Undefined variable $factory in /home/holdnsold/public_html/database/factories/ModelFactory.php on line 15
+[20-Jul-2023 05:23:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/holdnsold/public_html/database/factories/ModelFactory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/database/factories/ModelFactory.php on line 15

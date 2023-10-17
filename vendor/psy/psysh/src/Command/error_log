@@ -1,0 +1,136 @@
+[28-Aug-2023 20:35:53 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Command\Command" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/BufferCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/BufferCommand.php on line 25
+[28-Aug-2023 20:54:14 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Command\Command" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/ParseCommand.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/ParseCommand.php on line 30
+[28-Aug-2023 21:27:38 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Command\Command" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[28-Aug-2023 21:59:41 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Command\Command" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/EditCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/EditCommand.php on line 21
+[28-Aug-2023 23:05:53 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Command\Command" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/SudoCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/SudoCommand.php on line 26
+[29-Aug-2023 00:10:34 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Command\Command" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/ReflectingCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/ReflectingCommand.php on line 27
+[29-Aug-2023 00:44:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/Command.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/Command.php on line 25
+[29-Aug-2023 02:53:48 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Command\Command" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/TraceCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/TraceCommand.php on line 24
+[29-Aug-2023 03:08:03 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Command\Command" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/WhereamiCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/WhereamiCommand.php on line 24
+[29-Aug-2023 06:25:50 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Command\ReflectingCommand" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/DocCommand.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/DocCommand.php on line 28
+[29-Aug-2023 07:16:53 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Command\Command" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/ThrowUpCommand.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/ThrowUpCommand.php on line 32
+[29-Aug-2023 07:27:21 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Command\ReflectingCommand" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/ListCommand.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/ListCommand.php on line 37
+[29-Aug-2023 09:23:38 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Command\ReflectingCommand" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/DumpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/DumpCommand.php on line 26
+[29-Aug-2023 09:47:29 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Command\Command" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/HelpCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/HelpCommand.php on line 25
+[29-Aug-2023 12:19:05 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Command\TraceCommand" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/WtfCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/WtfCommand.php on line 26
+[29-Aug-2023 12:26:36 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Command\Command" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/ExitCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/ExitCommand.php on line 23
+[29-Aug-2023 13:54:07 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Command\Command" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/TimeitCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/TimeitCommand.php on line 26
+[29-Aug-2023 17:10:30 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Command\Command" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/PsyVersionCommand.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/PsyVersionCommand.php on line 20
+[03-Oct-2023 02:06:58 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Command\Command" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/WhereamiCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/WhereamiCommand.php on line 24
+[03-Oct-2023 02:54:13 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Command\Command" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/HistoryCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/HistoryCommand.php on line 27
+[03-Oct-2023 05:54:11 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Command\Command" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/ThrowUpCommand.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/ThrowUpCommand.php on line 32
+[03-Oct-2023 06:23:31 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Command\Command" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/HelpCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/HelpCommand.php on line 25
+[03-Oct-2023 06:38:33 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Command\Command" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/ExitCommand.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/ExitCommand.php on line 23
+[03-Oct-2023 09:33:17 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Command\ReflectingCommand" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/ListCommand.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/ListCommand.php on line 37
+[03-Oct-2023 15:52:01 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Command\Command" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/SudoCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/SudoCommand.php on line 26
+[03-Oct-2023 17:12:03 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Command\Command" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/EditCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/EditCommand.php on line 21
+[03-Oct-2023 17:31:17 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Command\Command" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/BufferCommand.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/BufferCommand.php on line 25
+[03-Oct-2023 19:24:00 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Command\Command" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/ParseCommand.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/ParseCommand.php on line 30
+[03-Oct-2023 19:33:42 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Command\Command" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/ClearCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/ClearCommand.php on line 22
+[03-Oct-2023 21:04:17 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Command\Command" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/ReflectingCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/ReflectingCommand.php on line 27
+[03-Oct-2023 23:56:08 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Command\ReflectingCommand" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/ShowCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/ShowCommand.php on line 27
+[04-Oct-2023 05:36:02 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Command\ReflectingCommand" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/DumpCommand.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/DumpCommand.php on line 26
+[04-Oct-2023 07:23:30 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Command\ReflectingCommand" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/DocCommand.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/DocCommand.php on line 28
+[04-Oct-2023 07:40:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/Command.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Command/Command.php on line 25

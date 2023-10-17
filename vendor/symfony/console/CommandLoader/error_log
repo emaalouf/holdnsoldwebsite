@@ -1,0 +1,12 @@
+[25-Aug-2023 00:04:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/holdnsold/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/CommandLoader/FactoryCommandLoader.php on line 22
+[25-Aug-2023 06:27:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/holdnsold/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php on line 23
+[03-Oct-2023 17:05:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\CommandLoader\CommandLoaderInterface" not found in /home/holdnsold/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/CommandLoader/ContainerCommandLoader.php on line 23

@@ -1,0 +1,4 @@
+[08-Aug-2023 02:49:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Stripe\HttpClient\ClientInterface" not found in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/HttpClient/CurlClient.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/HttpClient/CurlClient.php on line 27

@@ -1,0 +1,20 @@
+[24-Sep-2023 22:25:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/holdnsold/public_html/vendor/intervention/image/src/Intervention/Image/ImageServiceProviderLaravel4.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/intervention/image/src/Intervention/Image/ImageServiceProviderLaravel4.php on line 8
+[25-Sep-2023 00:52:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/holdnsold/public_html/vendor/intervention/image/src/Intervention/Image/ImageServiceProviderLaravelRecent.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/intervention/image/src/Intervention/Image/ImageServiceProviderLaravelRecent.php on line 7
+[15-Oct-2023 17:29:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/holdnsold/public_html/vendor/intervention/image/src/Intervention/Image/ImageServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/intervention/image/src/Intervention/Image/ImageServiceProvider.php on line 9
+[15-Oct-2023 19:12:14 UTC] PHP Fatal error:  Uncaught Error: Class "Intervention\Image\File" not found in /home/holdnsold/public_html/vendor/intervention/image/src/Intervention/Image/Image.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/intervention/image/src/Intervention/Image/Image.php on line 56
+[16-Oct-2023 02:32:01 UTC] PHP Fatal error:  Uncaught Error: Class "League\Container\ServiceProvider\AbstractServiceProvider" not found in /home/holdnsold/public_html/vendor/intervention/image/src/Intervention/Image/ImageServiceProviderLeague.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/intervention/image/src/Intervention/Image/ImageServiceProviderLeague.php on line 7

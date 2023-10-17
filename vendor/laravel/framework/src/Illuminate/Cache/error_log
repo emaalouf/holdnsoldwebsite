@@ -1,0 +1,57 @@
+[02-Sep-2023 06:07:22 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Cache/Lock.php on line 10
+[23-Sep-2023 23:26:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cache\TaggedCache" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Cache/RedisTaggedCache.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Cache/RedisTaggedCache.php on line 5
+[23-Sep-2023 23:36:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cache\Lock" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Cache/DatabaseLock.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Cache/DatabaseLock.php on line 9
+[24-Sep-2023 02:31:29 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 13
+[24-Sep-2023 03:00:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cache\TaggableStore" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Cache/MemcachedStore.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Cache/MemcachedStore.php on line 10
+[24-Sep-2023 07:24:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cache\Lock" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Cache/CacheLock.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Cache/CacheLock.php on line 5
+[24-Sep-2023 10:53:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cache\Lock" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Cache/DynamoDbLock.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Cache/DynamoDbLock.php on line 5
+[24-Sep-2023 11:09:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cache\CacheLock" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Cache/FileLock.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Cache/FileLock.php on line 5
+[24-Sep-2023 22:51:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cache\Lock" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Cache/MemcachedLock.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Cache/MemcachedLock.php on line 5
+[24-Sep-2023 23:24:49 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Cache/Repository.php on line 23
+[25-Sep-2023 01:15:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cache\TagSet" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Cache/RedisTagSet.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Cache/RedisTagSet.php on line 7
+[25-Sep-2023 02:40:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Cache\Factory" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Cache/CacheManager.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Cache/CacheManager.php on line 17
+[25-Sep-2023 06:44:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cache\TaggableStore" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Cache/RedisStore.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Cache/RedisStore.php on line 12
+[15-Oct-2023 16:47:38 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Cache/RateLimiter.php on line 9
+[15-Oct-2023 20:54:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cache\TaggableStore" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Cache/ApcStore.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Cache/ApcStore.php on line 5
+[16-Oct-2023 02:49:18 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Cache/DynamoDbStore.php on line 14
+[16-Oct-2023 02:49:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cache\Lock" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Cache/NoLock.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Cache/NoLock.php on line 5
+[16-Oct-2023 03:37:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cache\Lock" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Cache/RedisLock.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Cache/RedisLock.php on line 5

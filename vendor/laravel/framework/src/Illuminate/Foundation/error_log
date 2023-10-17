@@ -1,0 +1,9 @@
+[24-Sep-2023 09:21:27 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Vite.php on line 12
+[24-Sep-2023 15:31:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Container\Container" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php on line 32
+[24-Sep-2023 21:16:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Manager" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Foundation/MaintenanceModeManager.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Foundation/MaintenanceModeManager.php on line 7

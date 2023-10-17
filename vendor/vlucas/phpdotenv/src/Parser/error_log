@@ -1,0 +1,8 @@
+[07-Aug-2023 19:35:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Parser\ParserInterface" not found in /home/holdnsold/public_html/vendor/vlucas/phpdotenv/src/Parser/Parser.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/vlucas/phpdotenv/src/Parser/Parser.php on line 12
+[07-Oct-2023 17:10:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Parser\ParserInterface" not found in /home/holdnsold/public_html/vendor/vlucas/phpdotenv/src/Parser/Parser.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/vlucas/phpdotenv/src/Parser/Parser.php on line 12

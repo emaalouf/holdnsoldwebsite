@@ -1,0 +1,8 @@
+[24-Sep-2023 00:47:04 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\Service\AbstractService" not found in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Service/Terminal/ReaderService.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Service/Terminal/ReaderService.php on line 7
+[24-Sep-2023 08:01:04 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\Service\AbstractService" not found in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Service/Terminal/LocationService.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Service/Terminal/LocationService.php on line 7

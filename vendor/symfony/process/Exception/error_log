@@ -1,0 +1,44 @@
+[24-Aug-2023 12:41:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Exception\RuntimeException" not found in /home/holdnsold/public_html/vendor/symfony/process/Exception/ProcessTimedOutException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/process/Exception/ProcessTimedOutException.php on line 21
+[24-Aug-2023 15:23:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Process\Exception\ExceptionInterface" not found in /home/holdnsold/public_html/vendor/symfony/process/Exception/LogicException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/process/Exception/LogicException.php on line 19
+[24-Aug-2023 19:35:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Process\Exception\ExceptionInterface" not found in /home/holdnsold/public_html/vendor/symfony/process/Exception/InvalidArgumentException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/process/Exception/InvalidArgumentException.php on line 19
+[25-Aug-2023 03:44:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Exception\RuntimeException" not found in /home/holdnsold/public_html/vendor/symfony/process/Exception/ProcessFailedException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/process/Exception/ProcessFailedException.php on line 21
+[25-Aug-2023 03:57:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Process\Exception\ExceptionInterface" not found in /home/holdnsold/public_html/vendor/symfony/process/Exception/RuntimeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/process/Exception/RuntimeException.php on line 19
+[03-Oct-2023 04:21:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Process\Exception\ExceptionInterface" not found in /home/holdnsold/public_html/vendor/symfony/process/Exception/LogicException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/process/Exception/LogicException.php on line 19
+[03-Oct-2023 08:53:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Exception\RuntimeException" not found in /home/holdnsold/public_html/vendor/symfony/process/Exception/ProcessFailedException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/process/Exception/ProcessFailedException.php on line 21
+[03-Oct-2023 13:45:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Exception\RuntimeException" not found in /home/holdnsold/public_html/vendor/symfony/process/Exception/ProcessTimedOutException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/process/Exception/ProcessTimedOutException.php on line 21
+[03-Oct-2023 14:26:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Process\Exception\RuntimeException" not found in /home/holdnsold/public_html/vendor/symfony/process/Exception/ProcessSignaledException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/process/Exception/ProcessSignaledException.php on line 21
+[03-Oct-2023 17:25:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Process\Exception\ExceptionInterface" not found in /home/holdnsold/public_html/vendor/symfony/process/Exception/RuntimeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/process/Exception/RuntimeException.php on line 19
+[04-Oct-2023 03:12:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Process\Exception\ExceptionInterface" not found in /home/holdnsold/public_html/vendor/symfony/process/Exception/InvalidArgumentException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/process/Exception/InvalidArgumentException.php on line 19

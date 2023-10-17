@@ -1,0 +1,72 @@
+[28-Aug-2023 21:25:59 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Socialite\Two\AbstractProvider" not found in /home/holdnsold/public_html/vendor/laravel/socialite/src/Two/FacebookProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/socialite/src/Two/FacebookProvider.php on line 8
+[29-Aug-2023 03:06:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Socialite\Contracts\Provider" not found in /home/holdnsold/public_html/vendor/laravel/socialite/src/Two/AbstractProvider.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/socialite/src/Two/AbstractProvider.php on line 13
+[29-Aug-2023 03:15:50 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Socialite\AbstractUser" not found in /home/holdnsold/public_html/vendor/laravel/socialite/src/Two/User.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/socialite/src/Two/User.php on line 7
+[29-Aug-2023 04:00:56 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Socialite\Two\AbstractProvider" not found in /home/holdnsold/public_html/vendor/laravel/socialite/src/Two/LinkedInProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/socialite/src/Two/LinkedInProvider.php on line 8
+[29-Aug-2023 05:59:22 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Socialite\Two\AbstractProvider" not found in /home/holdnsold/public_html/vendor/laravel/socialite/src/Two/GithubProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/socialite/src/Two/GithubProvider.php on line 9
+[29-Aug-2023 06:37:30 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Socialite\Two\AbstractProvider" not found in /home/holdnsold/public_html/vendor/laravel/socialite/src/Two/BitbucketProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/socialite/src/Two/BitbucketProvider.php on line 9
+[29-Aug-2023 09:32:04 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Socialite\Two\AbstractProvider" not found in /home/holdnsold/public_html/vendor/laravel/socialite/src/Two/TwitterProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/socialite/src/Two/TwitterProvider.php on line 8
+[29-Aug-2023 10:04:01 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Socialite\Two\AbstractProvider" not found in /home/holdnsold/public_html/vendor/laravel/socialite/src/Two/GoogleProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/socialite/src/Two/GoogleProvider.php on line 8
+[29-Aug-2023 13:01:08 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Socialite\Two\AbstractProvider" not found in /home/holdnsold/public_html/vendor/laravel/socialite/src/Two/GitlabProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/socialite/src/Two/GitlabProvider.php on line 7
+[03-Oct-2023 02:12:51 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Socialite\Two\AbstractProvider" not found in /home/holdnsold/public_html/vendor/laravel/socialite/src/Two/TwitterProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/socialite/src/Two/TwitterProvider.php on line 8
+[03-Oct-2023 10:14:41 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Socialite\Two\AbstractProvider" not found in /home/holdnsold/public_html/vendor/laravel/socialite/src/Two/GitlabProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/socialite/src/Two/GitlabProvider.php on line 7
+[03-Oct-2023 10:18:01 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Socialite\Two\AbstractProvider" not found in /home/holdnsold/public_html/vendor/laravel/socialite/src/Two/GoogleProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/socialite/src/Two/GoogleProvider.php on line 8
+[03-Oct-2023 11:32:30 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Socialite\Two\AbstractProvider" not found in /home/holdnsold/public_html/vendor/laravel/socialite/src/Two/GithubProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/socialite/src/Two/GithubProvider.php on line 9
+[03-Oct-2023 17:47:58 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Socialite\Two\AbstractProvider" not found in /home/holdnsold/public_html/vendor/laravel/socialite/src/Two/FacebookProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/socialite/src/Two/FacebookProvider.php on line 8
+[03-Oct-2023 21:24:27 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Socialite\AbstractUser" not found in /home/holdnsold/public_html/vendor/laravel/socialite/src/Two/User.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/socialite/src/Two/User.php on line 7
+[04-Oct-2023 01:23:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Socialite\Contracts\Provider" not found in /home/holdnsold/public_html/vendor/laravel/socialite/src/Two/AbstractProvider.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/socialite/src/Two/AbstractProvider.php on line 13
+[04-Oct-2023 02:58:14 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Socialite\Two\AbstractProvider" not found in /home/holdnsold/public_html/vendor/laravel/socialite/src/Two/LinkedInProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/socialite/src/Two/LinkedInProvider.php on line 8
+[04-Oct-2023 06:54:19 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Socialite\Two\AbstractProvider" not found in /home/holdnsold/public_html/vendor/laravel/socialite/src/Two/BitbucketProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/socialite/src/Two/BitbucketProvider.php on line 9

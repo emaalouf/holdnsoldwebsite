@@ -1,0 +1,1 @@
+[23-Sep-2023 23:12:00 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Config/Repository.php on line 10

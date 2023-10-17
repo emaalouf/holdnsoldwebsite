@@ -1,0 +1,384 @@
+[20-Jul-2023 01:33:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Ad.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Ad.php on line 9
+[20-Jul-2023 01:54:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Bid.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Bid.php on line 7
+[20-Jul-2023 01:55:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Category.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Category.php on line 8
+[20-Jul-2023 01:55:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/ChildComment.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/ChildComment.php on line 7
+[20-Jul-2023 01:56:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/City.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/City.php on line 7
+[20-Jul-2023 01:57:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Comment.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Comment.php on line 7
+[20-Jul-2023 01:57:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Contact_query.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Contact_query.php on line 7
+[20-Jul-2023 01:58:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Country.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Country.php on line 7
+[20-Jul-2023 01:59:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Favorite.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Favorite.php on line 7
+[20-Jul-2023 02:00:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Language.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Language.php on line 7
+[20-Jul-2023 02:00:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Media.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Media.php on line 7
+[20-Jul-2023 02:01:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Option.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Option.php on line 7
+[20-Jul-2023 02:02:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Payment.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Payment.php on line 8
+[20-Jul-2023 02:02:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Post.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Post.php on line 7
+[20-Jul-2023 02:30:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Report_ad.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Report_ad.php on line 7
+[20-Jul-2023 02:31:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/SocialAccount.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/SocialAccount.php on line 7
+[20-Jul-2023 02:33:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/State.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/State.php on line 7
+[20-Jul-2023 02:33:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Sub_Category.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Sub_Category.php on line 7
+[20-Jul-2023 02:34:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/holdnsold/public_html/app/Models/User.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/User.php on line 8
+[20-Jul-2023 06:45:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Ad.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Ad.php on line 9
+[20-Jul-2023 06:45:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Bid.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Bid.php on line 7
+[20-Jul-2023 06:46:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Category.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Category.php on line 8
+[20-Jul-2023 06:47:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/ChildComment.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/ChildComment.php on line 7
+[20-Jul-2023 06:47:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/City.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/City.php on line 7
+[20-Jul-2023 06:48:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Comment.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Comment.php on line 7
+[20-Jul-2023 06:49:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Contact_query.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Contact_query.php on line 7
+[20-Jul-2023 06:49:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Country.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Country.php on line 7
+[20-Jul-2023 06:50:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Favorite.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Favorite.php on line 7
+[20-Jul-2023 06:51:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Language.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Language.php on line 7
+[20-Jul-2023 06:52:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Media.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Media.php on line 7
+[20-Jul-2023 06:52:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Option.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Option.php on line 7
+[20-Jul-2023 06:53:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Payment.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Payment.php on line 8
+[20-Jul-2023 06:54:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Post.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Post.php on line 7
+[20-Jul-2023 06:59:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Report_ad.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Report_ad.php on line 7
+[20-Jul-2023 07:00:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/SocialAccount.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/SocialAccount.php on line 7
+[20-Jul-2023 07:01:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/State.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/State.php on line 7
+[20-Jul-2023 07:02:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Sub_Category.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Sub_Category.php on line 7
+[20-Jul-2023 07:03:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/holdnsold/public_html/app/Models/User.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/User.php on line 8
+[23-Jul-2023 06:07:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Category.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Category.php on line 8
+[23-Jul-2023 08:25:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Favorite.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Favorite.php on line 7
+[23-Jul-2023 15:54:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Contact_query.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Contact_query.php on line 7
+[24-Jul-2023 00:51:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Post.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Post.php on line 7
+[24-Jul-2023 02:07:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Comment.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Comment.php on line 7
+[24-Jul-2023 03:20:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Ad.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Ad.php on line 9
+[24-Jul-2023 06:33:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Report_ad.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Report_ad.php on line 7
+[24-Jul-2023 08:18:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Payment.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Payment.php on line 8
+[24-Jul-2023 21:13:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/City.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/City.php on line 7
+[25-Jul-2023 00:12:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Bid.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Bid.php on line 7
+[25-Jul-2023 05:09:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Sub_Category.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Sub_Category.php on line 7
+[25-Jul-2023 08:07:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Option.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Option.php on line 7
+[25-Jul-2023 10:56:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/SocialAccount.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/SocialAccount.php on line 7
+[25-Jul-2023 12:59:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Media.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Media.php on line 7
+[09-Aug-2023 21:04:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Ad.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Ad.php on line 9
+[09-Aug-2023 21:16:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Bid.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Bid.php on line 7
+[09-Aug-2023 21:42:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/City.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/City.php on line 7
+[10-Aug-2023 00:19:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Ad.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Ad.php on line 9
+[10-Aug-2023 01:07:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Bid.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Bid.php on line 7
+[10-Aug-2023 02:44:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/City.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/City.php on line 7
+[10-Aug-2023 05:55:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Media.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Media.php on line 7
+[10-Aug-2023 12:06:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Post.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Post.php on line 7
+[16-Aug-2023 00:48:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/ChildComment.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/ChildComment.php on line 7
+[16-Aug-2023 13:13:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Language.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Language.php on line 7
+[17-Aug-2023 01:59:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/holdnsold/public_html/app/Models/User.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/User.php on line 8
+[17-Aug-2023 04:22:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/State.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/State.php on line 7
+[17-Aug-2023 08:13:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Country.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Country.php on line 7
+[17-Aug-2023 17:07:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/ChildComment.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/ChildComment.php on line 7
+[17-Aug-2023 17:14:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Comment.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Comment.php on line 7
+[17-Aug-2023 17:29:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Contact_query.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Contact_query.php on line 7
+[17-Aug-2023 18:05:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Country.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Country.php on line 7
+[18-Aug-2023 12:30:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Category.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Category.php on line 8
+[18-Aug-2023 12:54:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Favorite.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Favorite.php on line 7
+[19-Aug-2023 09:26:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Language.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Language.php on line 7
+[19-Aug-2023 09:46:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Media.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Media.php on line 7
+[19-Aug-2023 10:24:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Option.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Option.php on line 7
+[19-Aug-2023 11:25:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Payment.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Payment.php on line 8
+[19-Aug-2023 12:50:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Post.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Post.php on line 7
+[26-Aug-2023 03:56:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Report_ad.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Report_ad.php on line 7
+[26-Aug-2023 09:10:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/SocialAccount.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/SocialAccount.php on line 7
+[27-Aug-2023 13:59:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/State.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/State.php on line 7
+[27-Aug-2023 14:10:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Sub_Category.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Sub_Category.php on line 7
+[27-Aug-2023 14:30:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/holdnsold/public_html/app/Models/User.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/User.php on line 8
+[29-Aug-2023 00:14:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Sub_Category.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Sub_Category.php on line 7
+[29-Aug-2023 02:30:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/SocialAccount.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/SocialAccount.php on line 7
+[29-Aug-2023 06:35:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Option.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Option.php on line 7
+[29-Aug-2023 19:24:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Post.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Post.php on line 7
+[31-Aug-2023 01:03:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/holdnsold/public_html/app/Models/User.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/User.php on line 8
+[23-Sep-2023 23:41:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home/holdnsold/public_html/app/Models/User.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/User.php on line 8
+[25-Sep-2023 06:07:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Country.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Country.php on line 7
+[28-Sep-2023 10:36:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Report_ad.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Report_ad.php on line 7
+[28-Sep-2023 12:10:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Bid.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Bid.php on line 7
+[28-Sep-2023 15:13:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Favorite.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Favorite.php on line 7
+[28-Sep-2023 16:24:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Contact_query.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Contact_query.php on line 7
+[28-Sep-2023 17:13:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/Media.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/Media.php on line 7
+[29-Sep-2023 06:23:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/City.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/City.php on line 7
+[15-Oct-2023 21:20:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/ChildComment.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/ChildComment.php on line 7
+[16-Oct-2023 02:47:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/holdnsold/public_html/app/Models/State.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Models/State.php on line 7

@@ -1,0 +1,4 @@
+[29-Aug-2023 07:29:45 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/holdnsold/public_html/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php on line 17

@@ -1,0 +1,36 @@
+[24-Aug-2023 15:31:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Event\ConsoleEvent" not found in /home/holdnsold/public_html/vendor/symfony/console/Event/ConsoleErrorEvent.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Event/ConsoleErrorEvent.php on line 23
+[24-Aug-2023 18:12:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Event\ConsoleEvent" not found in /home/holdnsold/public_html/vendor/symfony/console/Event/ConsoleCommandEvent.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Event/ConsoleCommandEvent.php on line 19
+[24-Aug-2023 18:56:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Event\ConsoleEvent" not found in /home/holdnsold/public_html/vendor/symfony/console/Event/ConsoleTerminateEvent.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Event/ConsoleTerminateEvent.php on line 23
+[25-Aug-2023 12:02:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Event\ConsoleEvent" not found in /home/holdnsold/public_html/vendor/symfony/console/Event/ConsoleSignalEvent.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Event/ConsoleSignalEvent.php on line 21
+[03-Oct-2023 01:48:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/holdnsold/public_html/vendor/symfony/console/Event/ConsoleEvent.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Event/ConsoleEvent.php on line 24
+[03-Oct-2023 03:23:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Event\ConsoleEvent" not found in /home/holdnsold/public_html/vendor/symfony/console/Event/ConsoleCommandEvent.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Event/ConsoleCommandEvent.php on line 19
+[03-Oct-2023 05:00:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Event\ConsoleEvent" not found in /home/holdnsold/public_html/vendor/symfony/console/Event/ConsoleSignalEvent.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Event/ConsoleSignalEvent.php on line 21
+[03-Oct-2023 17:11:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Event\ConsoleEvent" not found in /home/holdnsold/public_html/vendor/symfony/console/Event/ConsoleErrorEvent.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Event/ConsoleErrorEvent.php on line 23
+[04-Oct-2023 01:00:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Event\ConsoleEvent" not found in /home/holdnsold/public_html/vendor/symfony/console/Event/ConsoleTerminateEvent.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Event/ConsoleTerminateEvent.php on line 23

@@ -1,0 +1,52 @@
+[28-Aug-2023 22:11:00 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Error" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Exception/ParseErrorException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Exception/ParseErrorException.php on line 17
+[29-Aug-2023 02:11:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Exception\Exception" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Exception/ThrowUpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Exception/ThrowUpException.php on line 17
+[29-Aug-2023 02:59:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Exception\Exception" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Exception/RuntimeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Exception/RuntimeException.php on line 17
+[29-Aug-2023 05:08:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Exception\Exception" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Exception/FatalErrorException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Exception/FatalErrorException.php on line 17
+[29-Aug-2023 05:45:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Exception\Exception" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Exception/ErrorException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Exception/ErrorException.php on line 17
+[29-Aug-2023 08:23:57 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Exception\RuntimeException" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Exception/DeprecatedException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Exception/DeprecatedException.php on line 17
+[03-Oct-2023 01:46:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Exception\Exception" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Exception/RuntimeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Exception/RuntimeException.php on line 17
+[03-Oct-2023 14:03:02 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Exception\RuntimeException" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Exception/DeprecatedException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Exception/DeprecatedException.php on line 17
+[03-Oct-2023 16:52:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Exception\Exception" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Exception/BreakException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Exception/BreakException.php on line 17
+[03-Oct-2023 18:37:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Error" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Exception/ParseErrorException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Exception/ParseErrorException.php on line 17
+[04-Oct-2023 01:07:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Exception\Exception" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Exception/ErrorException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Exception/ErrorException.php on line 17
+[04-Oct-2023 01:54:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Exception\Exception" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Exception/ThrowUpException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Exception/ThrowUpException.php on line 17
+[04-Oct-2023 05:14:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Exception\Exception" not found in /home/holdnsold/public_html/vendor/psy/psysh/src/Exception/FatalErrorException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/psy/psysh/src/Exception/FatalErrorException.php on line 17

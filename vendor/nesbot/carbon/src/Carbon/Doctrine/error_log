@@ -1,0 +1,16 @@
+[13-Aug-2023 00:15:21 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\VarDateTimeImmutableType" not found in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Doctrine/DateTimeImmutableType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Doctrine/DateTimeImmutableType.php on line 12
+[24-Sep-2023 23:26:53 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\DBAL\Types\VarDateTimeType" not found in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Doctrine/DateTimeType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Doctrine/DateTimeType.php on line 12
+[25-Sep-2023 01:30:07 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Doctrine\DateTimeImmutableType" not found in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Doctrine/CarbonImmutableType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Doctrine/CarbonImmutableType.php on line 16
+[15-Oct-2023 17:34:48 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon\Doctrine\DateTimeType" not found in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Doctrine/CarbonType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/Doctrine/CarbonType.php on line 16

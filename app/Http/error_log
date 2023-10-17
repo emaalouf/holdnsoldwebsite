@@ -1,0 +1,24 @@
+[11-Jul-2023 16:39:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/holdnsold/public_html/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Http/Kernel.php on line 7
+[11-Jul-2023 22:19:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/holdnsold/public_html/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Http/Kernel.php on line 7
+[20-Jul-2023 01:49:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/holdnsold/public_html/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Http/Kernel.php on line 7
+[20-Jul-2023 06:43:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/holdnsold/public_html/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Http/Kernel.php on line 7
+[15-Aug-2023 21:40:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/holdnsold/public_html/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Http/Kernel.php on line 7
+[24-Sep-2023 10:43:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/holdnsold/public_html/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/app/Http/Kernel.php on line 7

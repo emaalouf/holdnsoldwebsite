@@ -1,0 +1,8 @@
+[29-Aug-2023 12:22:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/holdnsold/public_html/vendor/laravel/socialite/src/Facades/Socialite.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/socialite/src/Facades/Socialite.php on line 13
+[03-Oct-2023 12:39:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/holdnsold/public_html/vendor/laravel/socialite/src/Facades/Socialite.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/socialite/src/Facades/Socialite.php on line 13

@@ -1,0 +1,24 @@
+[24-Aug-2023 16:12:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/holdnsold/public_html/vendor/laravel/socialite/src/SocialiteServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/socialite/src/SocialiteServiceProvider.php on line 9
+[24-Aug-2023 21:29:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Socialite\Contracts\User" not found in /home/holdnsold/public_html/vendor/laravel/socialite/src/AbstractUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/socialite/src/AbstractUser.php on line 8
+[25-Aug-2023 10:48:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Manager" not found in /home/holdnsold/public_html/vendor/laravel/socialite/src/SocialiteManager.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/socialite/src/SocialiteManager.php on line 19
+[03-Oct-2023 10:36:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Socialite\Contracts\User" not found in /home/holdnsold/public_html/vendor/laravel/socialite/src/AbstractUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/socialite/src/AbstractUser.php on line 8
+[03-Oct-2023 22:10:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Manager" not found in /home/holdnsold/public_html/vendor/laravel/socialite/src/SocialiteManager.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/socialite/src/SocialiteManager.php on line 19
+[04-Oct-2023 02:44:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/holdnsold/public_html/vendor/laravel/socialite/src/SocialiteServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/socialite/src/SocialiteServiceProvider.php on line 9

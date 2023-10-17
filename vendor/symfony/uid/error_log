@@ -1,0 +1,72 @@
+[20-Aug-2023 01:44:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/holdnsold/public_html/vendor/symfony/uid/UuidV7.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/uid/UuidV7.php on line 21
+[20-Aug-2023 08:15:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/holdnsold/public_html/vendor/symfony/uid/MaxUuid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/uid/MaxUuid.php on line 14
+[20-Aug-2023 08:16:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/holdnsold/public_html/vendor/symfony/uid/UuidV5.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/uid/UuidV5.php on line 21
+[20-Aug-2023 10:52:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/holdnsold/public_html/vendor/symfony/uid/Uuid.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/uid/Uuid.php on line 19
+[20-Aug-2023 14:28:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/holdnsold/public_html/vendor/symfony/uid/MaxUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/uid/MaxUlid.php on line 14
+[20-Aug-2023 18:41:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/holdnsold/public_html/vendor/symfony/uid/NilUuid.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/uid/NilUuid.php on line 17
+[20-Aug-2023 19:58:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/holdnsold/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/uid/Ulid.php on line 21
+[21-Aug-2023 01:33:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/holdnsold/public_html/vendor/symfony/uid/UuidV6.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/uid/UuidV6.php on line 21
+[21-Aug-2023 10:33:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/holdnsold/public_html/vendor/symfony/uid/UuidV1.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/uid/UuidV1.php on line 19
+[22-Aug-2023 02:07:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/holdnsold/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/uid/UuidV4.php on line 19
+[24-Sep-2023 01:26:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/holdnsold/public_html/vendor/symfony/uid/UuidV8.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/uid/UuidV8.php on line 19
+[24-Sep-2023 02:29:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/holdnsold/public_html/vendor/symfony/uid/MaxUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/uid/MaxUlid.php on line 14
+[24-Sep-2023 17:04:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/holdnsold/public_html/vendor/symfony/uid/Uuid.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/uid/Uuid.php on line 19
+[15-Oct-2023 18:24:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/holdnsold/public_html/vendor/symfony/uid/Ulid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/uid/Ulid.php on line 21
+[15-Oct-2023 21:17:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/holdnsold/public_html/vendor/symfony/uid/UuidV1.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/uid/UuidV1.php on line 19
+[16-Oct-2023 02:06:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/holdnsold/public_html/vendor/symfony/uid/NilUuid.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/uid/NilUuid.php on line 17
+[16-Oct-2023 03:52:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/holdnsold/public_html/vendor/symfony/uid/UuidV7.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/uid/UuidV7.php on line 21
+[16-Oct-2023 05:20:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/holdnsold/public_html/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/uid/UuidV4.php on line 19

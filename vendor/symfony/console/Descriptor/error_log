@@ -1,0 +1,36 @@
+[24-Aug-2023 16:46:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Descriptor\Descriptor" not found in /home/holdnsold/public_html/vendor/symfony/console/Descriptor/MarkdownDescriptor.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Descriptor/MarkdownDescriptor.php on line 29
+[24-Aug-2023 21:44:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Descriptor\Descriptor" not found in /home/holdnsold/public_html/vendor/symfony/console/Descriptor/TextDescriptor.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Descriptor/TextDescriptor.php on line 29
+[24-Aug-2023 22:15:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Descriptor\Descriptor" not found in /home/holdnsold/public_html/vendor/symfony/console/Descriptor/XmlDescriptor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Descriptor/XmlDescriptor.php on line 27
+[25-Aug-2023 05:00:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Descriptor\DescriptorInterface" not found in /home/holdnsold/public_html/vendor/symfony/console/Descriptor/Descriptor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Descriptor/Descriptor.php on line 27
+[03-Oct-2023 06:16:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Descriptor\Descriptor" not found in /home/holdnsold/public_html/vendor/symfony/console/Descriptor/TextDescriptor.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Descriptor/TextDescriptor.php on line 29
+[03-Oct-2023 10:35:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Descriptor\Descriptor" not found in /home/holdnsold/public_html/vendor/symfony/console/Descriptor/XmlDescriptor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Descriptor/XmlDescriptor.php on line 27
+[03-Oct-2023 12:10:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Descriptor\Descriptor" not found in /home/holdnsold/public_html/vendor/symfony/console/Descriptor/MarkdownDescriptor.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Descriptor/MarkdownDescriptor.php on line 29
+[03-Oct-2023 14:28:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Descriptor\DescriptorInterface" not found in /home/holdnsold/public_html/vendor/symfony/console/Descriptor/Descriptor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Descriptor/Descriptor.php on line 27
+[04-Oct-2023 01:34:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Descriptor\Descriptor" not found in /home/holdnsold/public_html/vendor/symfony/console/Descriptor/JsonDescriptor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/symfony/console/Descriptor/JsonDescriptor.php on line 27

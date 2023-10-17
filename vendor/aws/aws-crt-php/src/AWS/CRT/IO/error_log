@@ -1,0 +1,8 @@
+[16-Aug-2023 04:22:51 UTC] PHP Fatal error:  Uncaught Error: Class "AWS\CRT\NativeResource" not found in /home/holdnsold/public_html/vendor/aws/aws-crt-php/src/AWS/CRT/IO/EventLoopGroup.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/aws/aws-crt-php/src/AWS/CRT/IO/EventLoopGroup.php on line 18
+[24-Sep-2023 23:31:20 UTC] PHP Fatal error:  Uncaught Error: Class "AWS\CRT\NativeResource" not found in /home/holdnsold/public_html/vendor/aws/aws-crt-php/src/AWS/CRT/IO/InputStream.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/aws/aws-crt-php/src/AWS/CRT/IO/InputStream.php on line 10

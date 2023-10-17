@@ -1,0 +1,5 @@
+[06-Aug-2023 09:52:46 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "Symfony\Component\Translation\Formatter\MessageFormatterInterface" does not exist in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/MessageFormatter/MessageFormatterMapper.php:18
+Stack trace:
+#0 /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/MessageFormatter/MessageFormatterMapper.php(18): ReflectionMethod->__construct()
+#1 {main}
+  thrown in /home/holdnsold/public_html/vendor/nesbot/carbon/src/Carbon/MessageFormatter/MessageFormatterMapper.php on line 18

@@ -1,0 +1,24 @@
+[06-Aug-2023 01:48:18 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\ApiResource" not found in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Tax/Calculation.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Tax/Calculation.php on line 26
+[06-Aug-2023 09:30:47 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\ApiResource" not found in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Tax/Transaction.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Tax/Transaction.php on line 25
+[06-Aug-2023 23:02:09 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\ApiResource" not found in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Tax/CalculationLineItem.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Tax/CalculationLineItem.php on line 20
+[07-Aug-2023 22:11:19 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\ApiResource" not found in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Tax/TransactionLineItem.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Tax/TransactionLineItem.php on line 21
+[29-Sep-2023 10:13:51 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\ApiResource" not found in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Tax/CalculationLineItem.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Tax/CalculationLineItem.php on line 20
+[07-Oct-2023 15:10:39 UTC] PHP Fatal error:  Uncaught Error: Class "Stripe\ApiResource" not found in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Tax/TransactionLineItem.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/stripe/stripe-php/lib/Tax/TransactionLineItem.php on line 21

@@ -1,0 +1,16 @@
+[24-Sep-2023 00:29:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Console/GeneratorCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Console/GeneratorCommand.php on line 12
+[24-Sep-2023 10:55:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\ConsoleOutput" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Console/BufferedConsoleOutput.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Console/BufferedConsoleOutput.php on line 7
+[24-Sep-2023 17:04:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Application" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Console/Application.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Console/Application.php on line 21
+[15-Oct-2023 23:43:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Style\SymfonyStyle" not found in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Console/OutputStyle.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/holdnsold/public_html/vendor/laravel/framework/src/Illuminate/Console/OutputStyle.php on line 10
